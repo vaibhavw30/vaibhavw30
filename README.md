@@ -1,6 +1,6 @@
-### Hi, I'm Vaibhav
+### Hi, I'm Vaibhav Wudaru
 
-I study computer science at Georgia Tech (math minor, class of 2028). My work splits between software engineering, machine learning research, and quant finance. Most of my side projects started as a problem I ran into myself.
+I study computer science at Georgia Tech (class of 2028). I'm really interested in software engineering and many different areas around it, including machine learning, agentic workflows with AI agents, and large-scale infrastructure software projects. I've had a lot of experience and projects with these domains and am really passionate about solving problems with the projects and work that I do, not just learning technologies along the way, since companies and people alike, in my eyes, should be using software as a tool for good.
 
 **Right now**
 
