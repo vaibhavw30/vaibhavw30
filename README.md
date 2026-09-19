@@ -17,7 +17,7 @@ Before this: software engineering internships at DataMorph.ai (2026), OddsOn (20
 |---|---|
 | [boxit-architecture](https://github.com/vaibhavw30/boxit-architecture) | How BoxIt is designed: an 8-status booking state machine, exactly-once payouts over an append-only ledger, and tenant isolation in Postgres row-level security. |
 | [llm-activation-steering-research](https://github.com/vaibhavw30/llm-activation-steering-research) | Sparse autoencoders, transcoders, and linear probes on gemma-2-2b, with activation steering to test whether a direction is causal or just decodable. |
-| [EquiTable](https://github.com/vaibhavw30/EquiTable) | Helps families find nearby food pantries with accurate hours. LangGraph agents scrape and grade pantry pages, escalating across three Gemini tiers when confidence drops. |
+| [EquiTable](https://github.com/vaibhavw30/EquiTable) | Helps families find nearby food pantries with accurate hours. A LangGraph agent scrapes pantry sites with Gemini extraction; the API and agent run on Kubernetes with Prometheus and Grafana monitoring, and a killed pod resumes its crawl from a checkpoint. |
 | [benchwarmer](https://github.com/vaibhavw30/benchwarmer) | An NBA prediction engine and a C++20 market data recorder that rebuilds the order book and replays any session byte-for-byte. |
 | [tariff-modelling](https://github.com/vaibhavw30/tariff-modelling) | Whether the April 2025 tariff shock durably changed how U.S. equity sectors move together, and whether the forecasts were calibrated. |
 | [clearRx](https://github.com/vaibhavw30/clearRx) | Drug interaction lookup for clinicians. Started as a HackGT team project, then I rebuilt the retrieval solo: precision@5 went from 62% to 88%. |
